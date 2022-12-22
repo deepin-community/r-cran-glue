@@ -1,0 +1,5 @@
+Source: debian
+Maintainer: Andreas Tille <tille@debian.org>
+Section: misc
+Priority: optional
+Standards-Version: 4.1.0
